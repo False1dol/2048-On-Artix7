@@ -17,5 +17,5 @@
 
 ## Team composition 
 ###### - Rounak Sengupta
-###### - Siddharth Shukla
-###### - Gautamdev Chowdary
+###### - Vivek Venkatraman
+###### - Naveen John

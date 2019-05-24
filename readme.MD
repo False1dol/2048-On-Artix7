@@ -3,7 +3,7 @@
 ###### To implement the game on the Nexys 4 Artix 7 FPGA, we have utilised the Xilinx ISE software and the Xilinx PlanAhead tool.
 
 ## How to play?
-## The link to play it on the computer is: https://play2048.co/
+###### The link to play it on the computer is: https://play2048.co/
 
 ## The FPGA-based game
 ###### The game consists of 3 stages,

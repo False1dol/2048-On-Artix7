@@ -16,7 +16,6 @@
 ###### The code is currently hidden, if you would like access to it please contact me on my ASU email, or any one of my teammates who helped me make this project. 
 
 ## Team composition 
-
-- Rounak Sengupta
-- Siddharth Shukla
-- Gautamdev Chowdary
+###### - Rounak Sengupta
+###### - Siddharth Shukla
+###### - Gautamdev Chowdary
